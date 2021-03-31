@@ -8,8 +8,8 @@
 # Site: https://knaved.com
 # Version 0.1
 
-squid_user=xxx111
-squid_password=xxx111
+squid_user=gary
+squid_password=gary
 
 yum -y install squid httpd-tools wget openssl
 
